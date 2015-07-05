@@ -1,0 +1,12 @@
+"STARTUP.obj",
+"iniInterrupt.obj",
+"iniLED.obj",
+"iniTemperatureSensor.obj",
+"iniTimeControl.obj",
+"mainFrame.obj",
+"myDefine.obj",
+"iniAD.obj",
+"iniBeem.obj",
+"iniKey.obj" 
+TO "SmartRoom" 
+RAMSIZE(256) 
